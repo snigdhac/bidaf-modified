@@ -1,0 +1,8 @@
+data/
+save/
+save.tar.gz
+glove.6B.100d.txt
+mySensibleQAData/
+downloaded/
+inter_ensemble/
+inter_single/
